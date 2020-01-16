@@ -13,7 +13,7 @@ def GroupAnagrams():
         for j in range(len(values)):
             strings[index] = values[j]
             index += 1
-    print strings
+    print (strings)
 
 
 def initialise_anagrams():
